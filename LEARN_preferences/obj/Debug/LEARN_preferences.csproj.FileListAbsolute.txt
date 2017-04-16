@@ -1,0 +1,7 @@
+C:\Users\dtg\projects\acad\LEARN_preferences\LEARN_preferences\obj\Debug\LEARN_preferences.csprojResolveAssemblyReference.cache
+C:\Users\dtg\projects\acad\LEARN_preferences\LEARN_preferences\obj\Debug\LEARN_preferences.MyCommands.resources
+C:\Users\dtg\projects\acad\LEARN_preferences\LEARN_preferences\obj\Debug\LEARN_preferences.csproj.GenerateResource.Cache
+C:\Users\dtg\projects\acad\LEARN_preferences\LEARN_preferences\bin\Debug\LEARN_preferences.dll
+C:\Users\dtg\projects\acad\LEARN_preferences\LEARN_preferences\bin\Debug\LEARN_preferences.pdb
+C:\Users\dtg\projects\acad\LEARN_preferences\LEARN_preferences\obj\Debug\LEARN_preferences.dll
+C:\Users\dtg\projects\acad\LEARN_preferences\LEARN_preferences\obj\Debug\LEARN_preferences.pdb
